@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Interactive Front End</title>
-    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <link>http://akaiz.github.io/javascriptforfunorprofit/post/</link>
     <description>Recent content in Posts on Interactive Front End</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Mar 2016 20:04:09 -0700</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://akaiz.github.io/javascriptforfunorprofit/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>introduction</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/introduction/</link>
+      <link>http://akaiz.github.io/javascriptforfunorprofit/post/introduction/</link>
       <pubDate>Thu, 24 Mar 2016 20:04:09 -0700</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/introduction/</guid>
+      <guid>http://akaiz.github.io/javascriptforfunorprofit/post/introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basics of Interactive Frontend </title>
-      <link>http://replace-this-with-your-hugo-site.com/post/good-to-great/</link>
+      <link>http://akaiz.github.io/javascriptforfunorprofit/post/good-to-great/</link>
       <pubDate>Thu, 24 Mar 2016 19:00:18 -0700</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/good-to-great/</guid>
+      <guid>http://akaiz.github.io/javascriptforfunorprofit/post/good-to-great/</guid>
       <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.
  Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like
 level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.
